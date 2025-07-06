@@ -1,0 +1,22 @@
+# --- Web Framework & Server ---
+fastapi              
+uvicorn[standard]  
+
+# --- LangChain Core & Integrations ---
+langchain             
+langchain-community   
+langchain-openai    
+langgraph 
+langchain_mcp_adapters
+openai  
+
+# --- Utilities ---
+python-dotenv        
+pydantic
+modelcontextprotocol
+mcp[cli]
+
+# --- Database ---
+sqlalchemy 
+
+
